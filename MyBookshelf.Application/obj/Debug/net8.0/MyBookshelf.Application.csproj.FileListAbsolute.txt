@@ -1,0 +1,15 @@
+D:\Projetos\MyBookshelf\MyBookshelf.Application\bin\Debug\net8.0\MyBookshelf.Application.deps.json
+D:\Projetos\MyBookshelf\MyBookshelf.Application\bin\Debug\net8.0\MyBookshelf.Application.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Application\bin\Debug\net8.0\MyBookshelf.Application.pdb
+D:\Projetos\MyBookshelf\MyBookshelf.Application\bin\Debug\net8.0\MyBookshelf.Communication.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Application\bin\Debug\net8.0\MyBookshelf.Communication.pdb
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.csproj.AssemblyReference.cache
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.AssemblyInfoInputs.cache
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.AssemblyInfo.cs
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBooksh.07AE75EB.Up2Date
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\refint\MyBookshelf.Application.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\MyBookshelf.Application.pdb
+D:\Projetos\MyBookshelf\MyBookshelf.Application\obj\Debug\net8.0\ref\MyBookshelf.Application.dll

@@ -1,0 +1,11 @@
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\bin\Debug\net8.0\MyBookshelf.Communication.deps.json
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\bin\Debug\net8.0\MyBookshelf.Communication.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\bin\Debug\net8.0\MyBookshelf.Communication.pdb
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.AssemblyInfoInputs.cache
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.AssemblyInfo.cs
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.csproj.CoreCompileInputs.cache
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\refint\MyBookshelf.Communication.dll
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\MyBookshelf.Communication.pdb
+D:\Projetos\MyBookshelf\MyBookshelf.Communication\obj\Debug\net8.0\ref\MyBookshelf.Communication.dll

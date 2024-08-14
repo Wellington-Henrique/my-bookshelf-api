@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ICYKZ2NmfgPNCJRpL6oZWdS5GqOBWVHHeHMpVzpluoA=",
+  "Source": "MyBookshelf.API",
+  "BasePath": "_content/MyBookshelf.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
